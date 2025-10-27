@@ -1,0 +1,14 @@
+=== Métricas de descriptores de características - mano-pulgar_mask ===
+
+SIFT:
+  - Número de keypoints: 79
+  - Dimensión de descriptores: (79, 128)
+
+AKAZE:
+  - Número de keypoints: 450
+  - Dimensión de descriptores: (450, 61)
+
+ORB:
+  - Número de keypoints: 434
+  - Dimensión de descriptores: (434, 32)
+

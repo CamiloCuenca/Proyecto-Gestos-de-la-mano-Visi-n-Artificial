@@ -1,0 +1,8 @@
+=== Métricas de contornos - mano-abierta_mask ===
+Número de contornos encontrados: 1
+
+Contorno 1:
+  - Área: 357962.00 px²
+  - Perímetro: 2394.00 px
+  - Centroide: (291, 307)
+

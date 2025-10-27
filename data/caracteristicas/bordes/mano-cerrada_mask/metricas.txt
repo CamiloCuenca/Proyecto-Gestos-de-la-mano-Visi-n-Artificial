@@ -1,0 +1,20 @@
+=== Métricas de detección de bordes - mano-cerrada_mask ===
+
+Canny:
+  - Píxeles de borde: 1727
+  - Porcentaje de borde: 0.27%
+  - Intensidad media: 133.33
+  - Desviación estándar: 127.37
+
+Sobel:
+  - Píxeles de borde: 4224
+  - Porcentaje de borde: 0.66%
+  - Intensidad media: 127.62
+  - Desviación estándar: 127.50
+
+Laplaciano:
+  - Píxeles de borde: 3280
+  - Porcentaje de borde: 0.51%
+  - Intensidad media: 127.58
+  - Desviación estándar: 127.50
+

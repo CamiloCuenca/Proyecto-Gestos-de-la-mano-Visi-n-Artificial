@@ -1,0 +1,14 @@
+=== Métricas de descriptores de características - mano-abierta_mask ===
+
+SIFT:
+  - Número de keypoints: 94
+  - Dimensión de descriptores: (94, 128)
+
+AKAZE:
+  - Número de keypoints: 549
+  - Dimensión de descriptores: (549, 61)
+
+ORB:
+  - Número de keypoints: 418
+  - Dimensión de descriptores: (418, 32)
+

@@ -1,0 +1,20 @@
+=== Métricas de detección de bordes - mano-pulgar_mask ===
+
+Canny:
+  - Píxeles de borde: 2021
+  - Porcentaje de borde: 0.32%
+  - Intensidad media: 138.29
+  - Desviación estándar: 127.04
+
+Sobel:
+  - Píxeles de borde: 5010
+  - Porcentaje de borde: 0.78%
+  - Intensidad media: 127.30
+  - Desviación estándar: 127.50
+
+Laplaciano:
+  - Píxeles de borde: 3392
+  - Porcentaje de borde: 0.53%
+  - Intensidad media: 127.35
+  - Desviación estándar: 127.50
+
